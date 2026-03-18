@@ -1,0 +1,25 @@
+
+{
+  "name": "AllNoti Smart Process Reminder",
+  "short_name": "AllNoti",
+  "description": "업무별 프로세스 자동 생성 및 스마트 리마인더",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://github.com/ggummanadev/privacy/blob/main/icon-192x192.png?raw=true",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/ggummanadev/privacy/blob/main/icon-512x512.png?raw=true",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "orientation": "portrait"
+}
